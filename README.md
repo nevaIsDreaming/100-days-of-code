@@ -10,3 +10,10 @@ Thoughts: I'm a tad bit rusty on all of this since I took a substantial holiday 
 
 
 Link to work. https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range
+
+Day 2&3, January 11-12, 2017:
+Progress: Finished my Wikipedia Viewer for Free Code Camp today. 
+
+Thoughts: It was fun playing around with all the CSS styling on this page. I kept it very basic, but it was a good review.
+
+Link to work: http://codepen.io/nevaIsDreaming/pen/BLmGRL
