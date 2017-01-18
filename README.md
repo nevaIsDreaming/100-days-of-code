@@ -31,3 +31,11 @@ Progress: Pseduo-coded the algorithm for the Roman Numeral Converter on Free Cod
 Thoughts: I really like scripting.
 
 Link to work: https://www.freecodecamp.com/challenges/roman-numeral-converter
+
+
+Days 6-8 January 15-17, 2017:
+Progress: Finished the Roman Numeral Converter for Free Code Camp. Invested 4+ hours so far muddling my way through the WhereforeArtThou challenge. 
+
+Thoughts: Am I cheating by updating this in chunks like this? This challenge is complex and, well, challenging. I've tried a couple different approaches and have concluded (after collaborating with other campers in chat) that there is no way around using nested for loops. I'm thinking I'll have to draw a picuture of it and do more pseudo-coding to help think through it. It's good to be working on something more challenging. 
+
+Link to work: I don't have too much to show today since there isn't a solution to what I've been working on.
