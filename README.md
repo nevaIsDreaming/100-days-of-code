@@ -46,3 +46,10 @@ Progress: Continued work on Wherefore Art Thou, and developed a concept for a pe
 Thoughts: Slow and steady.
 
 Link to work: http://codepen.io/nevaIsDreaming/pen/MJpdeE
+
+Days 12-19 January 21-29th:
+Progress: The first couple of days of this last week were spent on finishing the Wherefore Art Thou algorithm. More intermediate algorithms. Today and yesterday I worked more on the basic website prototype. Today's work focused on customizing a bootstrap navbar. 
+
+Thoughts: After finally coming up with a solution to Wherefore Art Thou, I rejoiced and then cruised through the next few challenges. My little design project is coming along too. At this point, an error in the code somewhere is preventing the dropdowns from working, or the collapsibilty for smaller screens. Yikes! Here comes the trouble shooting!
+
+Link to work: http://codepen.io/nevaIsDreaming/pen/MJpdeE
