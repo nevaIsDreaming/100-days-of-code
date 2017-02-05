@@ -53,3 +53,10 @@ Progress: The first couple of days of this last week were spent on finishing the
 Thoughts: After finally coming up with a solution to Wherefore Art Thou, I rejoiced and then cruised through the next few challenges. My little design project is coming along too. At this point, an error in the code somewhere is preventing the dropdowns from working, or the collapsibilty for smaller screens. Yikes! Here comes the trouble shooting!
 
 Link to work: http://codepen.io/nevaIsDreaming/pen/MJpdeE
+
+Days 20-25 January 30 to February 4th:
+Progress: Algorithm scripting challenges. 
+
+Thoughts: Not so easy to do while sick.
+
+
