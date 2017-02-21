@@ -59,4 +59,8 @@ Progress: Algorithm scripting challenges.
 
 Thoughts: Not so easy to do while sick.
 
+Days 26-41 February 5-20th:
+Progress: Dropdowns and algorithms. 
+
+Thoughts: Progress has been minimal. Life has gotten quite exciting with children and flu season, but I have done a few more alogrithms, and had a good group coding session with my local FCC group where I got help and fixed the drop down issue that I was having on the Fuzzy Wuzzy site above. Collapsability is still an issue. 
 
