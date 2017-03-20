@@ -64,3 +64,9 @@ Progress: Dropdowns and algorithms.
 
 Thoughts: Progress has been minimal. Life has gotten quite exciting with children and flu season, but I have done a few more alogrithms, and had a good group coding session with my local FCC group where I got help and fixed the drop down issue that I was having on the Fuzzy Wuzzy site above. Collapsability is still an issue. 
 
+Days 42-69 February 21 to March 20:
+Progress: Completed Free Code Camp Intermediate Algorithms. Free Code Camp calculator bonfire in progress.
+
+Thoughts: Who knew there was so much to think about with a simple four function calculator? It's been eye-opening to see the different conditions that are required to get the calculator running without errors. I have it working now so that the numbers can be entered and the number will not exceed the space given in the calculator's screen. If it does, there is an error message. I had to edit my code to make sure that more than one decimal cannot appear in a number. It also took a surprisingly long time to get to the point of even writing the javascript for the buttons on the calculator. Getting the buttons into a grid pattern was probably the trickiest part of the HTML/CSS phase. But I got a lot of good exposure to different grid systems including bootstrap grid (and applying it specifically within a div), Susy, the new CSS grid, and flex box, which is what I ended up using in my layout. 
+
+Link to work: http://codepen.io/nevaIsDreaming/pen/qrmezG
